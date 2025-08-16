@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=FF5733&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Călin+%F0%9F%91%8B;Frontend+Developer+%F0%9F%92%BB;Sports+Marketing+Enthusiast+%F0%9F%8F%88;Always+Learning+and+Building+%F0%9F%9A%80)](https://git.io/typing-svg)
+
 # 👋 Hey there, I'm Călin Ștefan Miertescu
 
 🎓 Final-year CS student (4th Year) | 💻 Mostly Frontend Developer | 🏟️ Future sports marketing & content creator
@@ -28,6 +30,12 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=CalinStefanMiertescu&show_icons=true&theme=radical) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CalinStefanMiertescu&layout=compact&theme=radical)
 
+![GitHub Streak](https://streak-stats.demolab.com?user=CalinStefanMiertescu&theme=radical&hide_border=false)
+
+![trophy](https://github-profile-trophy.vercel.app/?username=CalinStefanMiertescu&theme=radical&margin-w=10&margin-h=10)
+
+![Profile views](https://komarev.com/ghpvc/?username=CalinStefanMiertescu&label=Profile%20Views&color=blue&style=flat)
+
 ---
 
 ## 🌍 Let’s Connect
@@ -35,3 +43,4 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/calinstefan14) [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/calingraphics) 
 
 ---
+```
